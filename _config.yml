@@ -1,4 +1,4 @@
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 title: MatsK's homepage
 description: Bookmark this to keep an eye on my telephony project updates!
 remote_theme: pages-themes/hacker@v0.2.0
